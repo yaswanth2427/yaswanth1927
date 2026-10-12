@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Yaswanth 👋
 
-<!--
-**yaswanth1927/yaswanth1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | B.Tech Graduate, 2026
 
-Here are some ideas to get you started:
+I'm an aspiring Java Full Stack Developer passionate about building
+practical applications and improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Java
+- **Database:** MySQL, SQL
+- **Backend:** JDBC, Spring Boot
+- **Frontend:** HTML, CSS, Bootstrap
+- **Tools:** Eclipse, Git, GitHub, MySQL Workbench
+
+## 🚀 Projects
+
+### 🎓 Student Management System
+A Java application that manages student records with CRUD operations,
+database connectivity, and input validation.
+
+**Technologies:** Java, JDBC, MySQL
+
+### 💰 Loan Management System
+An object-oriented Java application for handling different loan
+types, eligibility checks, and input validation.
+
+**Technologies:** Java, OOP
+
+### 🎮 Tic-Tac-Toe
+A console-based Java game featuring a 3×3 board and turn-based gameplay.
+
+**Technologies:** Java
+
+## 🎯 Current Learning Goals
+
+- Building applications using Spring Boot
+- Developing responsive web pages with HTML, CSS, and Bootstrap
+- Strengthening Java and SQL skills
+- Improving problem-solving abilities
+
+## 🤝 Connect With Me
+
+- GitHub: [@yaswanth1927](https://github.com/yaswanth1927)
